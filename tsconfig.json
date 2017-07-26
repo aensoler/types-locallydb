@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "lib": [
+      "es6"
+    ],
+    "noImplicitAny": true,
+    "noImplicitThis": true,
+    "removeComments": false,
+    "sourceMap": true,
+    "strictNullChecks": true,
+    "noEmit": true,
+    "forceConsistentCasingInFileNames": true,
+    "typeRoots": ["../"],
+    "types": []
+  },
+  "files": [
+    "index.d.ts",
+    "locallydb-tests.ts"
+  ]
+}
