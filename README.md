@@ -1,6 +1,8 @@
 # @types/locallydb
 TypeScript type definition of LocallyDB
 
+[![Build Status](https://travis-ci.org/aensoler/types-locallydb.svg?branch=master)](https://travis-ci.org/aensoler/types-locallydb)
+
 ## Usage
 The only thing needed is to add the dependency in the `package.json` file.
 
